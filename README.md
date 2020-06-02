@@ -1,1 +1,1 @@
-# nas-bench-nlp-release
+# NAS-Bench-NLP
