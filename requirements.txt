@@ -162,7 +162,7 @@ progressbar==2.5
 prometheus-client==0.5.0
 prompt-toolkit==1.0.15
 protobuf==3.7.1
-psutil==5.4.6
+psutil==5.6.6
 psycopg2==2.8.4
 ptyprocess==0.5.2
 py==1.5.4
