@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+train_logs_single_run/*
+!train_logs_single_run/logs.zip
+train_logs_multi_runs/*
+!train_logs_multi_runs/logs.zip
+train_logs_wikitext-2/*
+!train_logs_wikitext-2/logs.zip
+data/ptb
+data/wikitext-2
+data/figures
+models_weights/*
+!models_weights/dump_weights_model_2226_2020-04-18_07-35-19_999938929.pt
+tmp/
