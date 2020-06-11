@@ -3,7 +3,7 @@
 Preparation:
 1. unzip data/datasets.zip, train\_logs\_single\_run/logs.zip, train\_logs\_multi\_runs/logs.zip, and train\_logs\_wikitext-2/logs.zip;
 2. install requirements.txt (currently contains unuseed packages; to be cleaned);
-3. optionally, copy models from the dropbox (https://www.dropbox.com/sh/qviytkrlbu2cy5u/AABy59Bb9CpiS7D4osbvY\_xva?dl=0) to the folder models\_weights.
+3. optionally, copy models from the dropbox (https://www.dropbox.com/sh/qviytkrlbu2cy5u/AABy59Bb9CpiS7D4osbvY_xva?dl=0) to the folder models\_weights.
 
 Usage:
 * search\_space\_examples.ipynb demonstrates how to generate architectures from the search space;
