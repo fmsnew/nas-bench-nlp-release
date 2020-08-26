@@ -13,13 +13,15 @@ class Environment:
         self._logs = []
         self._arch_to_id = {}
         
+        arch_id = 0
         for i, filename in enumerate(os.listdir(logs_dir)):
             if filename.endswith('.json'):
                 log_path = os.path.join(logs_dir, filename)
                 x = json.load(open(log_path, 'r'))
                 self._logs.append(x)
                 assert x['recepie'] not in self._arch_to_id
-                self._arch_to_id[x['recepie']] = i
+                self._arch_to_id[x['recepie']] = arch_id
+                arch_id += 1
         
         self._training_states = {}
         
