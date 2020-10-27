@@ -31,7 +31,7 @@ conda-package-handling==1.6.0
 config-pkg==1.1.4
 ConfigSpace==0.4.13
 cplxmodule==0.8.0
-cryptography==2.6.1
+cryptography==3.2
 cssselect==1.0.3
 cupy==7.0.0a1
 cupy-cuda90==7.0.0a1
