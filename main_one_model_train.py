@@ -51,6 +51,8 @@ parser.add_argument('--wdrop', type=float, default=0.5,
                     help='wdrop')
 parser.add_argument('--experiment_id', type=int,
                     help='some specific id of the experiment')
+parser.add_argument('--device_id', type=int, default=0,
+                    help='device id')
 
 if __name__ == '__main__':
     
@@ -90,7 +92,7 @@ if __name__ == '__main__':
                      recepie=json.dumps(all_recepies[main_args.recepie_id]))
     
     corpus = data.Corpus(args.data)
-    cuda = 'cuda'
+    cuda = f'cuda:{main_args.device_id}'
 
     train_data = batchify(corpus.train, args.batch_size, args, cuda)
     train_eval_data = batchify(corpus.train, args.eval_batch_size, args, cuda)
