@@ -94,7 +94,7 @@ itsdangerous==1.1.0
 jdcal==1.4
 jedi==0.12.0
 jellyfish==0.7.2
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 joblib==0.12.5
 jsonschema==3.0.1
