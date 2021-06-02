@@ -257,7 +257,7 @@ typing==3.6.4
 typing-extensions==3.7.2
 ujson==1.35
 Unidecode==1.1.1
-urllib3==1.24.3
+urllib3==1.26.5
 virtualenv==16.7.9
 wasabi==0.2.2
 wcwidth==0.1.7
