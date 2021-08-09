@@ -67,7 +67,7 @@ future==0.16.0
 gast==0.3.2
 gdown==3.8.3
 gensim==3.4.0
-Glances==3.1.0
+Glances==3.2.1
 GPy==1.9.6
 graphviz==0.10.1
 grpcio==1.24.1
