@@ -39,7 +39,7 @@ cycler==0.10.0
 cymem==2.0.2
 Cython==0.29.13
 cytoolz==0.9.0.1
-dask==0.15.2
+dask==2021.10.0
 decorator==4.4.0
 Deprecated==1.2.5
 dill==0.2.9
