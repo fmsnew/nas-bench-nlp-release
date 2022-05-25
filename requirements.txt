@@ -175,7 +175,7 @@ pyDOE2==1.2.1
 Pygments==2.2.0
 pygpu==0.7.5
 pygraphviz==1.5
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyKriging==0.2.0
 pymc3==3.3
 pymongo==3.8.0
