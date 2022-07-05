@@ -255,7 +255,7 @@ transliterate==1.10.2
 tsfresh==0.11.0
 typing==3.6.4
 typing-extensions==3.7.2
-ujson==1.35
+ujson==5.4.0
 Unidecode==1.1.1
 urllib3==1.24.3
 virtualenv==16.7.9
