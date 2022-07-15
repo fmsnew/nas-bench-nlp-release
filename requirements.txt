@@ -43,7 +43,7 @@ dask==0.15.2
 decorator==4.4.0
 Deprecated==1.2.5
 dill==0.2.9
-distributed==1.18.3
+distributed==2021.10.0
 dlispy==0.0.2
 docutils==0.14
 -e git+https://github.com/fmsnew/DPDall.git@92be3038315d7c8470ec1375da24fb478cfc22cf#egg=dpd_project
