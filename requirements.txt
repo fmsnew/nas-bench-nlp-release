@@ -118,7 +118,7 @@ Mako==1.0.7
 Markdown==3.1.1
 MarkupSafe==1.0
 matplotlib==3.0.3
-mistune==0.8.3
+mistune==2.0.3
 mkl-fft==1.0.10
 mkl-random==1.0.2
 mkl-service==2.0.2
