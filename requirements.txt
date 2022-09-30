@@ -96,7 +96,7 @@ jedi==0.12.0
 jellyfish==0.7.2
 Jinja2==2.10
 jmespath==0.9.3
-joblib==0.12.5
+joblib==1.2.0
 jsonschema==3.0.1
 jupyter==1.0.0
 jupyter-client==5.2.3
